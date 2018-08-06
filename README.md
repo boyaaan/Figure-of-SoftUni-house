@@ -1,4 +1,4 @@
-# -5.-Sword
+Sword
 using System;
 
 class Program
